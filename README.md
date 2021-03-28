@@ -1,3 +1,3 @@
-# C Service
+# Micro
 
 Building microservices in C.
